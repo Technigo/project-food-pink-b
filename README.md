@@ -8,7 +8,9 @@ Your page will be built based on a random combination of cuisine, city, and desi
 
 ## Your team's combination: Indian food in Mumbai, India
 
-Your team has been tasked with using the Zomato API to list Indian food in Mumbai, India
+Your team has been tasked with using the Zomato API to list Indian food in Mumbai, India in the style of the Foodora site:
+
+![foodora](https://i.imgur.com/1QvkO8p.jpg)
 
 ## How to complete this task
 
